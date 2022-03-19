@@ -22,7 +22,7 @@ This repository contains the data and codes for the cluster analysis of weather 
 2. R codes in R markdown format
 3. heatmap.png
 4. barchart.png
-
+5. Report in .pdf format
 
 ## References
 
@@ -32,6 +32,6 @@ More information on the HISKLIM project: https://www.knmi.nl/kennis-en-datacentr
 
 https://cdn.knmi.nl/knmi/pdf/bibliotheek/knmipubDIV/HISKLIM/HISKLIM_9.pdf
 
-Data are downloadable at https://www.knmi.nl/nederland-nu/klimatologie
+Raw data are downloadable at https://www.knmi.nl/nederland-nu/klimatologie
 
 
