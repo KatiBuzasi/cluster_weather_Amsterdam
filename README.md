@@ -35,3 +35,6 @@ https://cdn.knmi.nl/knmi/pdf/bibliotheek/knmipubDIV/HISKLIM/HISKLIM_9.pdf
 Raw data are downloadable at https://www.knmi.nl/nederland-nu/klimatologie
 
 
+## Contact
+katalin.buzasi@ru.nl
+katalinbuzasi@weebly.com
